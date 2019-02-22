@@ -5,4 +5,4 @@ def square_array(array)
 end
 
 test_array = [1, 2, 3, 4]
-square_array(test_array).inspect
+square_array(test_array)
